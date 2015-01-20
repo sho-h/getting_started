@@ -1,5 +1,7 @@
 # サンプルアプリケーション: Blog
 
+[![security](https://hakiri.io/github/sho-h/getting_started/master.svg)](https://hakiri.io/github/sho-h/getting_started/master)
+
 本リポジトリは、[Ruby on Rails ガイド](http://railsguides.jp)の「[Railsをはじめよう](http://railsguides.jp/getting_started.html)」で題材となっている   
 Blog アプリケーションのサンプルコードです。
 
